@@ -8,3 +8,8 @@ En este markdown se enfoca en postres, un plato dulce o salado que se sirve al f
 **Torta de Frutas**: Es un postre que se compone de una base de galletas o bizcocho, una capa de crema y una capa de frutas frescas
 **Gelato**: a base de leche, azúcar y huevos, se puede servir con frutas o chocolate y se sirve congelado.
 
+## Bebidas Recomendadas
+- El café.
+- El té.
+- El chocolate caliente.
+
