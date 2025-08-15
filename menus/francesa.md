@@ -8,3 +8,7 @@ La cocina francesa se caracteriza por su elegancia, sofisticación y atención a
 **Coq au Vin**: Guiso de pollo cocinado en vino tinto con setas y especias, generalmente champiñones, cebollas y tocino. 
 **Cassoulet**: un Guiso abundante de frijoles blancos, carne de cerdo y pollo, usualmente cocinado en una olla de barro.
 
+## Bebidas Recomendadas
+- El vino.
+- Los Siropes.
+- Jugo de frutas.
