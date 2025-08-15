@@ -16,3 +16,6 @@ La cocina mexicana es famosa por sus sabores vibrantes y aromas, que se basan pr
 - Tejuino 
 - Tascalate
 
+## Consejos
+- Utiliza ingredientes frescos y calidad para darle un sabor auténtico.
+- Experimenta con diferentes tipos de chiles para encontrar el nivel de picante que te gusta.
