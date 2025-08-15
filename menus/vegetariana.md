@@ -8,3 +8,8 @@ a comida vegetariana se define por la exclusión de carne, aves y pescado, enfoc
 **Ensalada de Quinoa**: Mezcla de quinoa, espinacas, zanahoria, pepino y tomate, con un aderezo de vinagreta de limón y aceite de oliva.
 **Tacos de Verduras**: Tortillas de maíz rellenas de una mezcla de verduras, incluyendo zanahoria, calabacín, cebolla y tomate, con un toque de salsa de aguacate.
 
+## Bebidas recomendadas
+- bebidas a base de almendra o avena
+- jugos de frutas frescas
+- agua con limón o lima
+
