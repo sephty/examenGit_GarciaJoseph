@@ -13,3 +13,7 @@ Se caracteriza por una explosión de sabores y aromas, resultado del uso extensi
 - El Lassi.
 - Masala Chai.
 - Aam Panna.
+
+## Consejos
+- Evita comer en restaurantes que no tengan una buena reputación.
+- No te asustes por la cantidad de especias que se usan.
