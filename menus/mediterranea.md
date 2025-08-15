@@ -14,3 +14,7 @@ La comida mediterránea se caracteriza por un alto consumo de vegetales, frutas,
 - Infusiones de hierbas.
 - Vino blanco o tinto.
 
+# Consejos
+- Prioritiza frutas, verduras, granos y grasas saludables como el aceite de oliva.
+- No te olvides de incluir proteínas como pescado, legumbres y frutos secos en tu dieta.
+- Experimenta con diferentes hierbas y especias para darle un toque único a tus platos.
