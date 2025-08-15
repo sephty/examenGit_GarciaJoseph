@@ -8,3 +8,9 @@ La comida mediterránea se caracteriza por un alto consumo de vegetales, frutas,
 **Couscous**: un plato norteafricano a base de granos de trigo, verduras y carne. Se cocina en una olla grande y se sirve con una salsa de tomate.
 **Baba Ganoush**: un plato libanés a base de berenjenas asadas, aceite de oliva y especias. Se sirve con pan o verduras crudas.
 
+## Bebidas Recomendadas
+
+- Zumo de frutas frescas.
+- Infusiones de hierbas.
+- Vino blanco o tinto.
+
