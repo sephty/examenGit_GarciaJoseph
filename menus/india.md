@@ -9,3 +9,7 @@ Se caracteriza por una explosión de sabores y aromas, resultado del uso extensi
 **Biryani**: Arroz basmati perfumado con especias, hierbas y frutas secas, cocinado y servido como acompañamiento comun.
 **Samosas**: Empanada hecha de harina de trigo fina. rellenas de papa o verduras sazonadas, legumbres o carne, fritas o horneadas.
 
+## Bebidas Recomendadas
+- El Lassi.
+- Masala Chai.
+- Aam Panna.
