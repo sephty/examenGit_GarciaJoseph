@@ -15,3 +15,8 @@ La gastronomía china es conocida por su rica diversidad de sabores, técnicas d
 - El te verde y rojo o jazmín.
 - La cerveza Tsingtao.
 
+## Consejos
+
+- Aprovecha la variedad de sabores y técnicas de cocción para experimentar la riqueza de la cocina china.
+- No dudes en pedir recomendaciones a los camareros, ya que pueden ayudarte a elegir los platos más auténticos.
+
