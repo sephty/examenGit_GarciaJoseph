@@ -14,5 +14,9 @@ La cocina japonesa es una de las más variadas y complejas del mundo, caracteriz
 - Ramune.
 - Te verde(Matcha, sencha)
 
+## Consejos
+- Utiliza ingredientes frescos y de calidad.
+- manten un buen higiene al preparar los alimentos, especialmente al manipular pescado y mariscos.
+- experimenta con condimentos como salsa de soja, vinagre de arroz e incluso el natto
 
 
