@@ -13,3 +13,6 @@ a comida vegetariana se define por la exclusión de carne, aves y pescado, enfoc
 - jugos de frutas frescas
 - agua con limón o lima
 
+## Consejos
+- Enfocarse en la variedad y el equilibrio nutricional.
+- Evite el exceso de azúcares y grasas.
