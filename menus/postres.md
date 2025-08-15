@@ -13,3 +13,7 @@ En este markdown se enfoca en postres, un plato dulce o salado que se sirve al f
 - El té.
 - El chocolate caliente.
 
+## Consejos
+- Para preparar un postre, es importante tener en cuenta la textura y el sabor de los ingredientes.
+- Es importante elegir ingredientes frescos y de alta calidad.
+- Puede ser beneficioso para la salud si se prepara con ingredientes naturales y sin azúcares añadidos.
