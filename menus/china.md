@@ -9,3 +9,9 @@ La gastronomía china es conocida por su rica diversidad de sabores, técnicas d
 **Pollo Kung Pao**: Cubos de pollo, chile secos, nueces de macadamia, cebolla, jengibre, y salsa de soja y servidos con arroz.
 **Mapo Tofu**: Un plato de tofu frito con chile Szechuan, cebolla, jengibre, y salsa de soja.
 
+## Bebidas Recomendadas
+
+- El Baijiu.
+- El te verde y rojo o jazmín.
+- La cerveza Tsingtao.
+
