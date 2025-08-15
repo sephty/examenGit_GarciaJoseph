@@ -12,3 +12,7 @@ La comida Carnivora se centra en el consumo de productos de origen animal, como 
 - Agua mineral.
 - Vino tinto.
 - El te.
+
+## Consejos
+- Es importante elegir carnes frescas y de alta calidad para asegurar un sabor y textura óptimos.
+- La marinación es una técnica efectiva para agregar sabor y suavizar la textura de las carnes.
