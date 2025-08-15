@@ -12,3 +12,8 @@ La cocina francesa se caracteriza por su elegancia, sofisticación y atención a
 - El vino.
 - Los Siropes.
 - Jugo de frutas.
+
+## Consejos
+- considera explorar mercados locales en busca de productos frescos y de temporada.
+- Aprende técnicas como el desglasado y el emulsionado para preparar platos más complejos.
+
